@@ -1,0 +1,22 @@
+main{
+    text-align: center;
+  }
+body{
+    padding:25px 25px 25px 25px
+}
+body {
+    background-color: lightblue;
+  }
+  
+h1 {
+    color: white;
+    text-align: center;
+  }
+ h2 {
+    color: magenta;
+    text-align: center;
+ } 
+main {
+    font-family: verdana;
+    font-size: 20px;
+  }
